@@ -1,0 +1,12 @@
+Dataset used for W3D1 Linear Regression:
+
+California Housing Dataset
+
+Source:
+Scikit-Learn
+
+The dataset is loaded directly using fetch_california_housing()
+from sklearn.datasets.
+
+The dataset contains housing information and house values
+used for regression.
