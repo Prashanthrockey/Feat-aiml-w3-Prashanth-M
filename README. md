@@ -1,0 +1,13 @@
+
+Week 3: Supervised Learning, Ensembles & Hyperparameter Tuning
+
+Hands-on implementations of classical machine learning algorithms, regularized linear models, tree-based ensembles, support vector machines, and automated hyperparameter tuning using scikit-learn and MLflow.
+
+
+ Daily Modules
+
+- W3D1: Linear Regression, Ridge, and Lasso with metric evaluations (MSE, RMSE, MAE, R²) and residual plots.
+- W3D2: Logistic Regression for binary and multi-class classification (One-vs-Rest vs. Softmax) and ROC-AUC analysis.
+- W3D3: Decision Trees and Random Forests, pruning, and feature importance extraction.
+- W3D4: Support Vector Machines (SVM) and K-Nearest Neighbors (KNN) comparison and boundary analysis.
+- W3D5: Hyperparameter optimization using GridSearchCV and RandomizedSearchCV.
